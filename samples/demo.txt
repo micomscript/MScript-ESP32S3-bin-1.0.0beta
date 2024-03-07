@@ -1,7 +1,0 @@
-var i
-var s = 0
-repeat(i = 1, 10){
-	println(i)
-	s += i
-}
-printf("‡Œv = %d\n", s)
